@@ -32,7 +32,7 @@
 
 <p align="center" display="inline-block">
     💡Tools <br>
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
+  
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
