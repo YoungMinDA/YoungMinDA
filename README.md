@@ -6,7 +6,9 @@
     <Strong>☁️Portfolio List☁️</Strong><br><br>
 
 <br><br>
+<p align="center">    
 <Strong>📧Email📧</Strong><br>namu9655@naver.com<br>
+</p>
 
 </p>
 
