@@ -32,7 +32,7 @@
 
 <p align="center" display="inline-block">
     💡Tools <br>
-    <img src="https://img.shields.io/badge/Tableau-#E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 
 </p>
 <p align="center" display="inline-block">
