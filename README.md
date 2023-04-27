@@ -32,8 +32,7 @@
 
 <p align="center" display="inline-block">
     💡Tools <br>
-     <code><img alt = "Tableau" height="20" src=https://img.icons8.com/color/256/tableau-software.png"> pytorch</code>
-     
+     <img src="https://img.icons8.com/color/256/tableau-software.png&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
