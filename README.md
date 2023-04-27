@@ -32,7 +32,7 @@
 
 <p align="center" display="inline-block">
     💡Tools <br>
-     <img src="https://simpleicons.org/icons/tableau.svg?style=for-the-badge&logo=Tableau&logoColor=white">{: width="15" height="15"}
+     <img src="https://simpleicons.org/icons/tableau.svg?style=for-the-badge&logo=Tableau&logoColor=white">{: width="10" height="10"}
   
 </p>
 <p align="center" display="inline-block">
