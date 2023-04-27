@@ -32,7 +32,8 @@
 
 <p align="center" display="inline-block">
     💡Tools <br>
-     <img src="https://img.icons8.com/color/256/tableau-software.png&logoColor=white">
+     <img src="https://simpleicons.org/icons/tableau.svg?style=for-the-badge&logo=Tableau&logoColor=white">
+  
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
