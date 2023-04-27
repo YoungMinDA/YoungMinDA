@@ -33,7 +33,7 @@
 
 <p align="center" display="inline-block">
     💡Tools <br>
-    <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+    <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
     <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white">
 
