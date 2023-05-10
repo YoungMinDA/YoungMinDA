@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-    <Strong>☁️Portfolio List☁️</Strong><br><br>
+    <Strong>☁️Portfolio List☁️</Strong><br>
 <p align="center">
 <br>Team_project<br>
 <br>Tableau_project<br>
