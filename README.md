@@ -5,6 +5,11 @@
 
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
+<p align="center">
+<Strong>🧀Repositorie🧀</Strong><br>Team_project<br>
+<Strong>🧀Repositorie🧀</Strong><br>Tableau_project<br>
+<Strong>🧀Repositorie🧀</Strong><br>LookerDataStudio_project<br>
+</p>
 <br><br>
 <p align="center">    
 <Strong>📧Email📧</Strong><br>namu9655@naver.com<br>
