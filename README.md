@@ -4,14 +4,13 @@
 <br>
 <p align="center">
 <Strong>☁️Portfolio List☁️</Strong><br>          
-
-<br><Strong>Team_project</Strong>
+<Strong>Team_project</Strong>
 <br>https://github.com/YoungMinSW/Team_project<br>
 <br>Tableau_project<br>
 <br>https://github.com/YoungMinSW/Tableau_Project<br>
 <br>LookerDataStudio_project<br>
 <br>https://github.com/YoungMinSW/LookerDataStudio_project<br>
-<p align="center"><br>
+<p align="center">
 </p>
 <br><br>
 <p align="center">    
