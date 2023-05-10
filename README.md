@@ -6,9 +6,10 @@
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
 <p align="center">
-<Strong>🧀Repositorie🧀</Strong><br>Team_project<br>
-<Strong></Strong><br>Tableau_project<br>
-<Strong></Strong><br>LookerDataStudio_project<br>
+<Strong>🧀Repositorie🧀</Strong>
+<br>Team_project<br>
+<br>Tableau_project<br>
+<br>LookerDataStudio_project<br>
 </p>
 <br><br>
 <p align="center">    
