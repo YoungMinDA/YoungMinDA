@@ -6,9 +6,9 @@
 <Strong>☁️Portfolio List☁️</Strong>       
 <br><Strong>Team_project</Strong>
 <br>https://github.com/YoungMinSW/Team_project<br>
-<br>Tableau_project<br>
+<Strong>Tableau_project</Strong>
 <br>https://github.com/YoungMinSW/Tableau_Project<br>
-<br>LookerDataStudio_project<br>
+<Strong>LookerDataStudio_project</Strong>
 <br>https://github.com/YoungMinSW/LookerDataStudio_project<br>
 <p align="center">
 </p>
