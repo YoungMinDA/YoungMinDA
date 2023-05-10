@@ -3,11 +3,12 @@
 
 <br>
 
-
+<p align="center">
 <Strong>☁️Portfolio List☁️</Strong><br>
 <br>Team_project<br>
 <br>Tableau_project<br>
 <br>LookerDataStudio_project<br>
+<p align="center">       
 </p>
 <br><br>
 <p align="center">    
