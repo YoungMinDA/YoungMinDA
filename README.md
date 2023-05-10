@@ -4,9 +4,10 @@
 <br>
 
 <p align="center">
-<Strong>☁️Portfolio List☁️</Strong><br>
+<Strong>☁️Portfolio List☁️</Strong>
        
-<Strong>Team_project</Strong>
+       
+<br><Strong>Team_project</Strong>
 <br>https://github.com/YoungMinSW/Team_project<br>
 <br>Tableau_project<br>
 <br>https://github.com/YoungMinSW/Tableau_Project<br>
