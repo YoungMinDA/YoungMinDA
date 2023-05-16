@@ -4,12 +4,8 @@
 <br>
 <p align="center">
 <Strong>☁️Portfolio List☁️</Strong>       
-<br><Strong>Team_project</Strong>
-<br>https://github.com/YoungMinSW/Team_project<br>
-<Strong>Tableau_project</Strong>
-<br>https://github.com/YoungMinSW/Tableau_Project<br>
-<Strong>LookerDataStudio_project</Strong>
-<br>https://github.com/YoungMinSW/LookerDataStudio_project<br>
+<br><Strong>포토폴리오 저장소</Strong>
+<br>https://github.com/YoungMinSW/Team_project(수정중입니다)<br>
 <p align="center">
 </p>
 <br><br>
