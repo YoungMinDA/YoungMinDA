@@ -8,7 +8,6 @@
 <br>https://github.com/YoungMinSW/Team_project(수정중입니다)<br>
 <p align="center">
 </p>
-<br><br>
 <p align="center">    
 <Strong>📧Email📧</Strong><br>namu9655@naver.com<br>
 </p>
