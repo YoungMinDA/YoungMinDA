@@ -1,12 +1,12 @@
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=YoungMinSW's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=YoungMinDA's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
 <br>
 <p align="center">
 <Strong>☁️Portfolio List☁️</Strong>       
 <br></br>
 <br><Strong>포토폴리오 저장소</Strong>
-<br>https://github.com/YoungMinSW/Team_project(수정중-)<br>
+<br>(노션 링크 첨부 예정)<br>
 <p align="center">
 </p>
 <p align="center">    
@@ -19,12 +19,11 @@
 
 <div align="center">
 <br>
-       
-제 이름은 김영민이고 기계공학과를 졸업하였습니다.
-저는 Mathlab 수업과 AI 공모전을 경험하면서 데이터 분석과 시각화의 매력을 느끼게 되었습니다. 
-       
-많이 부족하지만 항상 배우려는 자세로 학습에 임하고 있습니다.
-배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 데이터 분석가입니다
+**저는 기계공학부에서 4대 역학을 기반으로 사물의 본질을 파악하는 ‘해석’ 분야를 공부하며 스스로 가설을 수립하고 데이터의 흐름을 분석, 검증하는 실험을 진행하였습니다. 이 과정에서 파이썬 언어를 활용하며 경험하게 된 데이터 분석에 큰 흥미를 갖게 되었습니다. 이 계기로 이와 관련된 다양한 공부와 활동을 이어가고 있습니다.**
+
+**저의 취미는 스스로 학습하고 지식을 쌓으며 성취감을 얻고 운동을 하며 건강한 정신을 유지하는 것입니다. 또한,  스스로 얽매이지 않고 팀원과 소통을 통해 부족한 점을 찾아 팀 적으로 시너지 효과를 내며 성장하고 싶습니다.**  
+
+**현재 23년 5월부터 (주)아이디어웨어 기업에서 데이터 분석가 인턴으로 근무하고 있습니다.**
 <br>
 </div>
 
