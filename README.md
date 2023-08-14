@@ -6,7 +6,7 @@
 <Strong>☁️Portfolio List☁️</Strong>       
 <br></br>
 <br><Strong>포토폴리오 저장소</Strong>
-<br>(노션 링크 첨부 예정)<br>
+<br>(노션 링크 첨부)<br>
 <p align="center">
 </p>
 <p align="center">    
