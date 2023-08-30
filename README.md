@@ -2,16 +2,10 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=YoungMinDA's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)   
 <Strong>📧Email📧</Strong><br>namu9655@naver.com<br>
 </p>
-
 </p>
+<br>
+**안녕하세요,데이터 분석가 김영민입니다.👋**  
 
-<br>
-
-<div align="center">
-<br>
-    
-**안녕하세요,데이터 분석가 김영민의 깃허브 입니다👋**  
-<br>
 </div>
 
 <br>
