@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <strong>안녕하세요. 데이터 분석가 김영민의 깃허브입니다.👋</strong><br></br>
+  <strong>안녕하세요. 데이터 분석가 김영민입니다.👋</strong><br></br>
      <strong>📧 Email : namu9655@gmail.com</strong>
 </p>
 
