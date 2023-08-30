@@ -4,7 +4,7 @@
 
 <p align="center">
     <strong>📧 Email : namu9655@naver.com</strong><br></br>
-  <strong>안녕하세요, 데이터 분석가 김영민의 깃허브입니다.👋</strong>
+  <strong>안녕하세요. 데이터 분석가 김영민의 깃허브입니다.👋</strong>
 </p>
 
 
