@@ -4,6 +4,7 @@
 
 <p align="center">
   <strong>안녕하세요, 데이터 분석가 김영민입니다.👋</strong><br></br>
+  
      📧 Email : namu9655@gmail.com
 </p>
 
