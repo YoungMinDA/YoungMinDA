@@ -22,9 +22,9 @@
 
 <p align="center" display="inline-block">
     💡Tools💡 <br>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-    <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=Powerbi&logoColor=white">
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Azure&logoColor=white">
+    <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=Powerbi&logoColor=white">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
     <img src="https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
    
