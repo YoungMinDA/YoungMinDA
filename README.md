@@ -1,7 +1,7 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=YoungMinDE's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)   
 
 <p align="center">
-  <strong>안녕하세요, 데이터 엔지니어 김영민입니다.👋</strong><br></br>
+  <strong>안녕하세요, 데이터 분석가 김영민입니다.👋</strong><br></br>
      📧 Email : namu9655@gmail.com
 </p>
 
@@ -25,9 +25,7 @@
     <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=Powerbi&logoColor=white">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-    <img src="https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
    
-  
 </p>
 
 <p align="center" display="inline-block">
