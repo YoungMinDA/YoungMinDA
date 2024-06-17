@@ -1,11 +1,10 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=YoungMinDA's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)   
 
-<p align="center">
-  <strong>안녕하세요, 데이터 분석가 김영민입니다.👋</strong><br></br>
-     📧 Email : namu9655@gmail.com
-</p>
+<div align=center>
 
-<br>
+#### 엠클라우드브리지에서 1년 차 BI Developer로 일하고 있는 김영민입니다.👋
+
+ </div>
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
