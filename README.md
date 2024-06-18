@@ -18,7 +18,7 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 ### 🛠 Technology Stack
 *   **Language** : Python, MySQL, MSSQL, MariaDB, PostgreSQL
 *   **BI Tool** : Power BI, Tableau, Looker Studio
-*   **Cowork Tool** : Notion, Jira, Atlassian, Confluence\
+*   **Cowork Tool** : Notion, Jira, Atlassian, Confluence
 *   **Cloud** : AWS RDS, Azure, Git, Github
 
 ### 📔 Career
