@@ -18,8 +18,8 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 ### 🛠 Technology Stack
 *   **Language** : Python, MySQL, MSSQL, MariaDB, PostgreSQL
 *   **BI Tool** : Power BI, Tableau, Looker Studio
+*   **Cowork Tool** : Notion, Jira, Atlassian, Confluence\
 *   **Cloud** : AWS RDS, Azure, Git, Github
-*   **Cowork Tool** : Notion, Jira, Atlassian, Confluence
 
 ### 📔 Career
 **엠클라우드브리지** : Microsoft Data&AI 팀 | BI Developer, 선임(23.10~재직중, 약 10개월)
