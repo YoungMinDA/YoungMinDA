@@ -16,17 +16,17 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 
 ### 📔 Career
 **엠클라우드브리지** : Microsoft Data&AI 팀 | BI Developer, 선임(23.10~재직중, 약 10개월)
-   *   고객사 데이터 기반 비즈니스 지표 설계 및 대시보드 개발
-   *   고객사 Needs에 맞춘 리포트 작성 및 컨설팅
-   *   SQL과 Power BI를 활용한 데이터 분석 및 비즈니스 로직 구현
-   *   Data Mart 구축을 위한 스키마 정의 및 데이터 모델링
+*   고객사 데이터 기반 비즈니스 지표 설계 및 대시보드 개발
+*   고객사 Needs에 맞춘 리포트 작성 및 컨설팅
+*   SQL과 Power BI를 활용한 데이터 분석 및 비즈니스 로직 구현
+*   Data Mart 구축을 위한 스키마 정의 및 데이터 모델링
      
 **아이디어웨어** : 개발2 팀 | Data Analyst, 인턴(23.05~23.09, 약 5개월) 
-   *   **체험형 인턴**으로 ['WISEGOODS'](https://www.wiseapp.co.kr/) 서비스의 데이터 분석 및 품질 관리 업무 수행
-   *   일일 100만 건 이상의 국내 6개 주요 오픈마켓 플랫폼 데이터 품질 관리 경험
-   *   지속적인 주간 회의를 통한 플랫폼 서비스 및 1건의 비즈니스 기여 경험
-   *   Tableau, MariaDB, HeidiSQL을 활용한 데이터 분석 및 시각화 경험
-   *   Jira, Atlassian, Confluence를 활용한 팀 단위의 애자일 협업 경험
+*   **체험형 인턴**으로 ['WISEGOODS'](https://www.wiseapp.co.kr/) 서비스의 데이터 분석 및 품질 관리 업무 수행
+*   일일 100만 건 이상의 국내 6개 주요 오픈마켓 플랫폼 데이터 품질 관리 경험
+*   지속적인 주간 회의를 통한 플랫폼 서비스 및 1건의 비즈니스 기여 경험
+*   Tableau, MariaDB, HeidiSQL을 활용한 데이터 분석 및 시각화 경험
+*   Jira, Atlassian, Confluence를 활용한 팀 단위의 애자일 협업 경험
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=YoungMinDA&show_icons=true&count_private=true"><img
