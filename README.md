@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=YoungMinDA's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)   
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2774AE&text=YoungMinDA's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)   
 
 # Hi, I'm YoungMin.Kim, 👋
 안녕하세요, 엠클라우드브리지에서 1년 차 BI Developer로 일하고 있는 김영민입니다.
