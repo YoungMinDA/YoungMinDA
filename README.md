@@ -36,6 +36,6 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/YoungMinDA/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=YoungMinDA&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=YoungMinDA&color=2774AE">
    </a>
 </div>
