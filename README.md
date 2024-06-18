@@ -1,6 +1,6 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2774AE&text=YoungMinDA's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)   
 
-# 소통하는 데이터 분석가👋
+## 소통하는 데이터 분석가👋
 안녕하세요, 엠클라우드브리지에서 1년 차 BI Developer로 일하고 있는 김영민입니다.
 Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출하는 곳에서 나온다고 믿습니다.
 현재까지의 경력에서 안주하지 않고, 공모전, 세미나 등 다양한 활동을 병행하며 **지속적인 성장**과 **업무 능력 향상**을 위해 노력
