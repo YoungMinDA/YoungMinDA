@@ -7,10 +7,6 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 하고 있습니다. 또한, 팀원들과의 **협업**을 통해 **서로의 강점**을 발휘하고 **함께 성장**하는 것을 선호합니다.
 
 <p align='center'>
-   📫 How to reach me: <a href='mailto:namu9655@gmail.com'>namu9655@gmail.com</a>
-</p>
-
-<p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=YoungMinDA&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=YoungMinDA&show_icons=true&count_private=true"/></a>
