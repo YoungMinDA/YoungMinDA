@@ -2,7 +2,7 @@
 
 <div align=center>
 
-#### 엠클라우드브리지에서 1년 차 BI Developer로 일하고 있는 김영민입니다.👋
+#### 안녕하세요, 1년 차 BI Developer로 일하고 있는 김영민입니다.👋
 
  </div>
 
