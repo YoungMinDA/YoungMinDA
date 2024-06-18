@@ -19,17 +19,21 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 </p>
 
 
-### Key points
+### ✨ Key points
 *   고객사 데이터 기반 비즈니스 지표 설계 및 대시보드 개발
 *   고객사 Needs에 맞춘 리포트 작성 및 컨설팅
 *   SQL과 Power BI를 활용한 데이터 분석 및 비즈니스 로직 구현
 *   Data Mart 구축을 위한 스키마 정의 및 데이터 모델링
 
-## 🛠 Technology Stack
+### 🛠 Technology Stack
 *   **Language** : Python, MySQL, MSSQL, PostgreSQL, MongoDB languages
 *   **BI Tool** : Power BI, Tableau, Looker Studio
 *   **Cloud** : AWS RDS, Azure, Git, Github
 *   **Cowork Tool** : Notion, Jira, Atlassian, Confluence
+
+### 📔 Career
+*   **엠클라우드브리지** : BI Developer, 선임(23.10~Ing, 약 10개월)
+*   **아이디어웨어** : Data Analyst, 인턴(23.05~23.09, 약 5개월) 
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/YoungMinDA/github-profile-views-counter">
