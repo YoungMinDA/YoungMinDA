@@ -18,7 +18,7 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungMinDA&layout=compact"/></a>
 </p>
 
-
+### 📫 Contact : <a href='mailto:namu9655@gmail.com'>namu9655@gmail.com</a>
 ### 🛠 Technology Stack
 *   **Language** : Python, MySQL, MSSQL, PostgreSQL, MongoDB languages
 *   **BI Tool** : Power BI, Tableau, Looker Studio
@@ -26,13 +26,13 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 *   **Cowork Tool** : Notion, Jira, Atlassian, Confluence
 
 ### 📔 Career
-**[엠클라우드브리지](https://mcloudbridge.com/)** : Microsoft Data&AI 팀 | BI Developer, 선임(23.10~Ing, 약 10개월)
+**엠클라우드브리지** : Microsoft Data&AI 팀 | BI Developer, 선임(23.10~재직중, 약 10개월)
    *   고객사 데이터 기반 비즈니스 지표 설계 및 대시보드 개발
    *   고객사 Needs에 맞춘 리포트 작성 및 컨설팅
    *   SQL과 Power BI를 활용한 데이터 분석 및 비즈니스 로직 구현
    *   Data Mart 구축을 위한 스키마 정의 및 데이터 모델링
      
-**[아이디어웨어](https://www.wiseapp.co.kr/)** : 개발2 팀 | Data Analyst, 인턴(23.05~23.09, 약 5개월) 
+**아이디어웨어** : 개발2 팀 | Data Analyst, 인턴(23.05~23.09, 약 5개월) 
    *   **체험형 인턴**으로 ['WISEGOODS'](https://www.wiseapp.co.kr/) 서비스의 데이터 분석 및 품질 관리 업무 수행
    *   일일 100만 건 이상의 국내 6개 주요 오픈마켓 플랫폼 데이터 품질 관리 경험
    *   지속적인 주간 회의를 통한 플랫폼 서비스 및 1건의 비즈니스 기여 경험
