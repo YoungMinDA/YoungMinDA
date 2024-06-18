@@ -6,14 +6,6 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 현재까지의 경력에서 안주하지 않고, 공모전, 세미나 등 다양한 활동을 병행하며 **지속적인 성장**과 **업무 능력 향상**을 위해 노력
 하고 있습니다. 또한, 팀원들과의 **협업**을 통해 **서로의 강점**을 발휘하고 **함께 성장**하는 것을 선호합니다.
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=YoungMinDA&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=YoungMinDA&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/YoungMinDA/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungMinDA&layout=compact"/></a>
-</p>
-
 ### 📫 Contact : <a href='mailto:namu9655@gmail.com'>namu9655@gmail.com</a>
 ### 🛠 Skill
 *   **Language** : Python, MySQL, MSSQL, MariaDB, PostgreSQL
@@ -35,6 +27,13 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
    *   Tableau, MariaDB, HeidiSQL을 활용한 데이터 분석 및 시각화 경험
    *   Jira, Atlassian, Confluence를 활용한 팀 단위의 애자일 협업 경험
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=YoungMinDA&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=YoungMinDA&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/YoungMinDA/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungMinDA&layout=compact"/></a>
+</p>
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/YoungMinDA/github-profile-views-counter">
