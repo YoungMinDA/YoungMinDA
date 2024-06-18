@@ -16,7 +16,7 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 
 ### 📫 Contact : <a href='mailto:namu9655@gmail.com'>namu9655@gmail.com</a>
 ### 🛠 Technology Stack
-*   **Language** : Python, MySQL, MSSQL, PostgreSQL, MongoDB languages
+*   **Language** : Python, MySQL, MSSQL, MariaDB, PostgreSQL
 *   **BI Tool** : Power BI, Tableau, Looker Studio
 *   **Cloud** : AWS RDS, Azure, Git, Github
 *   **Cowork Tool** : Notion, Jira, Atlassian, Confluence
