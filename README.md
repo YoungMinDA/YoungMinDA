@@ -28,6 +28,8 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 *   Tableau, MariaDB, HeidiSQL을 활용한 데이터 분석 및 시각화 경험
 *   Jira, Atlassian, Confluence를 활용한 팀 단위의 애자일 협업 경험
 
+### 🏫 Education
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=YoungMinDA&show_icons=true&count_private=true"><img
            height=150
