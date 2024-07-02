@@ -29,8 +29,11 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 *   Jira, Atlassian, Confluence를 활용한 팀 단위의 애자일 협업 경험
 
 ### 🏫 Education
-*   서강대학교 데이터 사이언스/인공지능 학과 석사
-*   호서대학교 기계공학부 학사 
+*   서강대학교 데이터사이언스·인공지능 전공 • 석사(24.09~재학중)
+*   호서대학교 기계공학부 전공 학사(17.03~23.02)
+
+### 🏫 Education
+*   데이터분석준전문가·ADsP(23.06)
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=YoungMinDA&show_icons=true&count_private=true"><img
            height=150
