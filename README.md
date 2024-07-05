@@ -25,7 +25,7 @@ Data Analyst의 가치는 비즈니스 가치를 올바른 방향으로 도출�
 *   **체험형 인턴**으로 ['WISEGOODS'](https://www.wiseapp.co.kr/) 서비스의 데이터 분석 및 품질 관리 업무 수행
 *   일일 100만 건 이상의 국내 6개 주요 오픈마켓 플랫폼 데이터 품질 관리 경험
 *   지속적인 주간 회의를 통한 플랫폼 서비스 및 1건의 비즈니스 기여 경험
-*   Tableau, MariaDB, HeidiSQL을 활용한 데이터 분석 및 시각화 경험
+*   Tableau, MariaDB, HeidiSQL을 활용한 데이터 가공 및 시각화 경험
 *   Jira, Atlassian, Confluence를 활용한 팀 단위의 애자일 협업 경험
 
 ### 🏫 Education
