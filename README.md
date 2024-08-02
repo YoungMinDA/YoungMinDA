@@ -1,6 +1,6 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2774AE&text=YoungMinDA's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)   
 
-### 👋 안녕하세요, BI 엔지니어 김영민 입니다👋
+### 👋 안녕하세요, BI 엔지니어 김영민 입니다.
 
 ### 📫 Contact : <a href='mailto:namu9655@gmail.com'>namu9655@gmail.com</a>
 ### 🛠 Skill
