@@ -6,7 +6,7 @@
 ### 🛠 Skill
 *   **Language** : Python, MySQL, MSSQL, MariaDB, PostgreSQL
 *   **BI Tool** : Power BI, Tableau, Looker Studio
-*   **Cowork Tool** : Notion, Jira, Atlassian, Confluence
+*   **Cowork Tool** : Teams, Notion, Jira, Atlassian, Confluence
 *   **Cloud** : AWS RDS, Azure, Git, Github
 
 ### 📔 Career
