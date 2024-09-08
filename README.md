@@ -7,7 +7,7 @@
 *   **Language** : Python, MySQL, MSSQL, MariaDB, PostgreSQL
 *   **BI Tool** : Power BI, Tableau, Looker Studio
 *   **Cowork Tool** : Teams, Notion, Jira, Atlassian, Confluence
-*   **Cloud** : AWS RDS, Azure, Git, Github
+*   **Cloud** : AWS RDS, Azure, Databricks, Git, Github
 
 ### 📔 Career
 **(주)대림** : 투자부문 자산운용팀 | 데이터 분석가, 사원(24.10~재직중)
