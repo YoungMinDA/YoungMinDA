@@ -1,5 +1,5 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2774AE&text=YoungMinDA's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)   
-### 👋 안녕하세요, 데이터 분석가 김영민 입니다.
+### 👋 안녕하세요, Business Analyst 김영민 입니다.
 
 ### 📫 Contact : <a href='mailto:namu9655@gmail.com'>namu9655@gmail.com</a>
 ### 🛠 Skill
@@ -10,7 +10,7 @@
 
 ### 📔 Career
 
-**(주)대림** : 데이터 분석가(24.10~재직중)
+**(주)대림** : 비즈니스 분석가(24.10~재직중)
 *   DL그룹 부동산 자산 Asset Management 업무 수행(디타워, 글래드 호텔&리조트 등)
 *   부동산 자산 가치 성장을 위한 핵심 지표 및 가설 설정에 따른 데이터 분석 프로세스 설계 및 검증
 *   입점 매장 매출 성장 및 솔루션 목적의 외부 데이터 기반 상권 패턴 및 오프라인 소비 트렌드 분석
